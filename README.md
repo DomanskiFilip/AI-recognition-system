@@ -76,7 +76,7 @@ This project uses datasets from Kaggle:
 ```
 ### Co-Authors of the ML Project
 - Filip Domanski
-- Oliwer Galaszkiewicz
+- [Oliwer Galaszkiewicz](https://github.com/O-Galaszkiewicz)
 - Arash Ahangar
 
 **Note:** This project is for educational and research purposes. Ensure you comply with Kaggle's terms of service and dataset licenses when using the data.
